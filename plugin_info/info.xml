@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+    <id>yamahaavr</id>
+    <name>Yamaha</name>
+    <description>Plugin permettant de piloter les amplificateurs Yamaha</description>
+    <icon>fa fa-keyboard-o</icon>
+    <licence>AGPL</licence>
+    <author>Slobberbone</author>
+    <require>1.212.0</require>
+    <category>multimedia</category>
+</info>

@@ -1,0 +1,50 @@
+{
+    "plugins\/yamahaavr\/plugin_info\/info.xml": {
+        "Plugin permettant de piloter les amplificateurs Yamaha": "Plugin permettant de piloter les amplificateurs Yamaha"
+    },
+    "plugins\/yamahaavr\/plugin_info\/configuration.php": {
+        "Dépendances : ": "Dépendances : ",
+        "Dépendances :": "Dépendances :",
+        "Installer": "Installer",
+        "Etes-vous sûr de vouloir installer les dépendances ": "Etes-vous sûr de vouloir installer les dépendances ",
+        "Installation": "Installation"
+    },
+    "plugins\/yamahaavr\/desktop\/php\/yamahaavr.php": {
+        "Ajouter un template": "Ajouter un template",
+        "Rechercher": "Rechercher",
+        "Mes Amplis": "Mes Amplis",
+        "Ajouter": "Ajouter",
+        "Général": "Général",
+        "Nom de l'équipement Yamaha": "Nom de l'équipement Yamaha",
+        "Objet parent": "Objet parent",
+        "Aucun": "Aucun",
+        "Activer": "Activer",
+        "Visible": "Visible",
+        "IP": "IP",
+        "Zone": "Zone",
+        "Commandes Yamaha": "Commandes Yamaha",
+        "Commandes": "Commandes",
+        "Nom": "Nom",
+        "Options": "Options",
+        "Action": "Action",
+        "Supprimer": "Supprimer",
+        "Sauvegarder": "Sauvegarder"
+    },
+    "plugins\/yamahaavr\/desktop\/js\/yamahaavr.js": {
+        "Nom": "Nom",
+        "Afficher": "Afficher",
+        "Historiser": "Historiser",
+        "Tester": "Tester"
+    },
+    "plugins\/yamahaavr\/core\/class\/yamahaavr.class.php": {
+        "Etat": "Etat",
+        "Entrée": "Entrée",
+        "Volume": "Volume",
+        "Audio": "Audio",
+        "Volume+": "Volume+",
+        "Volume-": "Volume-",
+        "On": "On",
+        "Off": "Off",
+        "Rafraîchir": "Rafraîchir"
+    }
+}
